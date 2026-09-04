@@ -1,12 +1,31 @@
 .apresentacao {
   text-align: center;
 }
-
 .titulo {
   font-family: "Freckle Face", system-ui;
+  font-size: 46px
 }
-
 .subtitulo {
   font-family: "Syne Mono", monospace;
-  font-size: 18px;
+  font-size: 22px;
+}
+img {
+    display: inline-block;
+    width: 200px;
+    margin: 20px;
+    border-radius: 30px;
+  }
+.sobre-mim {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.container {
+  max-width: 600px;
+  background-color: oklab(62.439% 0.00574 0.00172 / 0.267)
+}
+
+.titulo-sobre {
+  text-align: center;
 }
