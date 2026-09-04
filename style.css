@@ -1,0 +1,12 @@
+.apresentacao {
+  text-align: center;
+}
+
+.titulo {
+  font-family: "Freckle Face", system-ui;
+}
+
+.subtitulo {
+  font-family: "Syne Mono", monospace;
+  font-size: 18px;
+}
